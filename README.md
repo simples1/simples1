@@ -15,7 +15,6 @@ My main stack is Python, Ruby on Rails, ReactJS, and AWS.
 <br />
 <br />
 <br />
-<br />
 ---
 
 **Tech I reach for:**
@@ -26,7 +25,6 @@ My main stack is Python, Ruby on Rails, ReactJS, and AWS.
 
 ---
 
-<br />
 <br />
 <br />
 <br />
