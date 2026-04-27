@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**simples1/simples1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abdullah Aden**, a senior full-stack developer and AI implementer based in Leicester, UK.
 
-Here are some ideas to get you started:
+10 years building software. The last few spent integrating AI into production systems that actually ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't just experiment with AI, I embed it into real applications, automate workflows, and build tools that make teams faster. Currently exploring what's possible when you put modern LLMs in the hands of real users.
+
+My main stack is Python, Ruby on Rails, ReactJS, and AWS, with AI/ML integration layered on top wherever it adds genuine value.
+
+---
+
+**Tech I reach for:**
+`Python` `Ruby on Rails` `ReactJS` `TypeScript` `AWS` `GraphQL` `Hotwire` `Terraform` `Docker` `AI/ML Integration` `LLM APIs`
+
+---
