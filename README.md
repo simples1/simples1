@@ -17,7 +17,11 @@ My main stack is Python, Ruby on Rails, ReactJS, and AWS.
 <br />
 
 
-https://github.com/user-attachments/assets/2a857012-cac8-4c0d-8ac6-37a44b26a555
+
+
+https://github.com/user-attachments/assets/ed86e960-b135-4b35-9032-365e4ead1523
+
+
 
 
 <br />
