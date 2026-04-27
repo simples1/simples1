@@ -9,14 +9,10 @@ AI implementer based in Leicester, UK.
 Currently exploring what's possible when you put modern LLMs in the hands of real users.
 
 My main stack is Python, Ruby on Rails, ReactJS, and AWS.
-\
-\
-\
-\
-\
-\
-
-
+<br />
+<br />
+<br />
+<br />
 
 ---
 
