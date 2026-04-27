@@ -8,7 +8,11 @@ AI implementer based in Leicester, UK.
 
 Currently exploring what's possible when you put modern LLMs in the hands of real users.
 
-My main stack is Python, Ruby on Rails, ReactJS, and AWS, with AI/ML integration layered on top wherever it adds genuine value.
+My main stack is Python, Ruby on Rails, ReactJS, and AWS.
+
+
+
+
 
 ---
 
@@ -19,6 +23,10 @@ My main stack is Python, Ruby on Rails, ReactJS, and AWS, with AI/ML integration
 `OpenAI SDK` `LangChain` `LangGraph` `CrewAI` `Anthropic Claude API` `RAG Pipelines` `Vector Databases` `Prompt Engineering` `Multi-Agent Systems` `LLM Fine-tuning`
 
 ---
+
+
+
+
 
 
 📬 [abdullah@adenio.co.uk](mailto:abdullah@adenio.co.uk)
