@@ -1,8 +1,10 @@
 ## Hey there! 👋
 
-I'm **Abdullah Aden**, 10+ years Software Engineer and AI implementer based in Leicester, UK.
+I'm **Abdullah Aden**, 
 
-Most recently integrating AI into production systems.
+10+ years Software Engineer. 
+
+AI implementer based in Leicester, UK.
 
 Currently exploring what's possible when you put modern LLMs in the hands of real users.
 
